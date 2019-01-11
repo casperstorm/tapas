@@ -4,6 +4,8 @@
 
 This is based on a combination of [amar-bar](https://github.com/Amar1729/nerdbar.widget) and [dhyanabar](https://github.com//Johngeorgesample/dhyanabar)
 
+![image](https://github.com/casperstorm/tapas/blob/master/example/example.png)
+
 ## Installation
 
 Make sure you have [Übersicht](http://tracesof.net/uebersicht/) installed.
