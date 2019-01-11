@@ -1,6 +1,7 @@
 # Tapas
 
 Übersicht information bar to replace the stock macOS menubar.
+
 This is based on a combination of [amar-bar](https://github.com/Amar1729/nerdbar.widget) and [dhyanabar](https://github.com//Johngeorgesample/dhyanabar)
 
 ## Installation
